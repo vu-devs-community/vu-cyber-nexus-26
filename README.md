@@ -1,14 +1,14 @@
-VU Cyber Nexus '26
+### VU Cyber Nexus '26
 
 A cybersecurity training and Capture The Flag (CTF) write-up repository for VU Cyber Nexus '26, developed while training through CyberLab Security Academy.
 
 This repository contains challenge solutions, investigation notes, commands, tools, and lessons learned from our CyberLab Security Academy training. Challenges are organized by category and difficulty level.
 
 
-Training platform: CyberLab Security Academy
+### Training platform: CyberLab Security Academy
 Purpose: Learn, practice, document, and share cybersecurity techniques responsibly.
 
-Categories
+### Categories
 
 •Forensics
 
@@ -25,7 +25,7 @@ Categories
 •Web Exploitation
 
 
-Levels
+### Levels
 
 Each category is divided into three difficulty levels:
 
@@ -37,7 +37,7 @@ Each category is divided into three difficulty levels:
 
 
 
-Repository Structure
+### Repository Structure
 vu-cyber-nexus-26/
 ├── README.md
 ├── forensics/
@@ -74,7 +74,7 @@ vu-cyber-nexus-26/
     └── references.md
 
    
-Current Write-ups
+### Current Write-ups
 
 Forensics — Easy
 
@@ -90,7 +90,7 @@ Forensics — Easy
 
 
 
-Lessons Learned
+### Lessons Learned
 
 What the challenge demonstrated and what to remember.
 
